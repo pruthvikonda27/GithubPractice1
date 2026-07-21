@@ -1,0 +1,4 @@
+public void insert(BinaryNode node) {
+if(node == null ) {
+return;
+}
